@@ -23,5 +23,13 @@
         android:id="@+id/btn_1"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="按钮"/>
+        android:text="弹它"/>
+
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="跳转Check"
+        android:layout_marginTop="20dp"
+        />
 </LinearLayout>
